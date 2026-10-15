@@ -1,2 +1,3 @@
 This is my first file ready to push
 This is second line of code I have added -- 2nd push
+This is third line of code I have edited on remote repo in git console. -- to check how pull works
